@@ -67,10 +67,9 @@ Ensure you have the following installed:
 
 ### Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+1. Go to FE directory:
+   ```
+   cd todo_client
    ```
 
 2. Install the dependencies:
